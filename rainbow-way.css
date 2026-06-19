@@ -17394,7 +17394,7 @@ body:after {
             rgba(var(--popup-color), .08) 0%,
             rgba(var(--menu-back),  .48) 48%,
             rgba(var(--menu-back),  .88) 100%),
-        url("https://cdn.jsdelivr.net/gh/makis3kurisu/shiki@main/bg.png") !important;
+        url("https://steamcdn-a.akamaihd.net/steamcommunity/public/images/items/386700/5d79fd6bf5cdf7e8e6d0a53bfb2be174e3291da0.png") !important;
     background-size:     cover, cover  !important;
     background-position: center, center !important;
     background-repeat:   no-repeat, no-repeat !important;
